@@ -10,4 +10,4 @@ Moreover, since video and audio conversations are enabled by Twilio, you can use
 
 For more information about using Sharp IMG Viewer desktop application for Windows, see the online documentation:
 
-- [Sharp IMG Viewer Help](http://sharp-img-viewer.herokuapp.com/help/index.html)
+- [Sharp IMG Viewer Help](http://sharp-img-viewer.b4a.app/help/index.html)
