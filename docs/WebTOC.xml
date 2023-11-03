@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="5dbe6be4-8f52-4238-adfb-38654a3b76df" Title="Sharp IMG Viewer" Url="html/d036e989-7203-4e85-bd7f-51b8b27ccc92.htm">
-    <HelpTOCNode Id="bd500929-0154-4d3f-909a-0a5dcff407b1" Title="Introduction" Url="html/79512247-426b-4520-8ee1-d0e1bf65006f.htm">
+  <HelpTOCNode Id="1a725e71-b78a-44de-88e2-4a31900ff9e2" Title="Sharp IMG Viewer" Url="html/d036e989-7203-4e85-bd7f-51b8b27ccc92.htm">
+    <HelpTOCNode Id="c06494ee-31d7-4b22-87c8-65bca820fed1" Title="Introduction" Url="html/79512247-426b-4520-8ee1-d0e1bf65006f.htm">
       <HelpTOCNode Title="Welcome" Url="html/fdd6156a-5a19-4d0f-ba29-80c286782fbb.htm" />
       <HelpTOCNode Title="Features" Url="html/210cc85b-65ba-4021-be8a-bfff2625f6d1.htm" />
       <HelpTOCNode Title="System Requirements" Url="html/a50e9c7e-c796-45ce-9a4f-f600f4784964.htm" />
       <HelpTOCNode Title="Purchasing Information" Url="html/e423cb31-6012-4ed6-a9b3-aeb394ba56e5.htm" />
       <HelpTOCNode Title="Version History" Url="html/97b6444a-e947-4401-9142-bf51ab7eaecf.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="7ef1ab7e-e072-4cd0-81ff-4a7aa6dd0707" Title="Installation" Url="html/c015b97a-7d6a-4340-8082-e66a7fa18ce7.htm">
+    <HelpTOCNode Id="b463d63d-d575-4a47-b460-c9a1ed145623" Title="Installation" Url="html/c015b97a-7d6a-4340-8082-e66a7fa18ce7.htm">
       <HelpTOCNode Title="Setup" Url="html/16090524-bc88-4969-a6c8-b9f3f4597be4.htm" />
       <HelpTOCNode Title="Activation" Url="html/5bbd5241-d2d1-4dde-9ac5-5713518c9815.htm" />
       <HelpTOCNode Title="Uninstall" Url="html/130c056e-05da-47df-ab37-e372f550e35b.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="b0d87482-dd32-404b-96b8-9bfdcd6e53bb" Title="User Interface" Url="html/fbd94ed4-be51-418b-b6aa-774f504559e2.htm">
+    <HelpTOCNode Id="cddeb42d-d941-4b23-a074-179fb8c28d73" Title="User Interface" Url="html/fbd94ed4-be51-418b-b6aa-774f504559e2.htm">
       <HelpTOCNode Title="Main Application Window" Url="html/b1ac4c94-b16a-4d52-8f6b-572487bc41ee.htm" />
       <HelpTOCNode Title="Options" Url="html/34686a1a-a247-4fcf-9f7e-639db03396a6.htm" />
       <HelpTOCNode Title="Open Image" Url="html/628dd936-fb0a-4606-a6ef-3b4ae4c70bbe.htm" />
@@ -31,10 +31,10 @@
       <HelpTOCNode Title="Merge Images" Url="html/1a4c60c2-93d0-4f0d-825b-ff33a0128aca.htm" />
       <HelpTOCNode Title="Select Streams" Url="html/5b84cd50-1ad6-41f5-8984-90819dacf742.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="21f601e3-3484-406f-9042-155425aa0056" Title="How To Guides" Url="html/ec258a4a-0fdc-4ce6-b97d-8d0ac6e8f90b.htm">
+    <HelpTOCNode Id="47d1f363-3d6a-4c58-ac2b-fbf27f93f503" Title="How To Guides" Url="html/ec258a4a-0fdc-4ce6-b97d-8d0ac6e8f90b.htm">
       <HelpTOCNode Title="Frequently Asked Questions" Url="html/34569df6-dd82-45d1-88fc-7d1a43ad7ba7.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="c80dd0f2-c209-4e38-acce-2479e458d892" Title="Miscellaneous" Url="html/a4f72071-7ca0-47ce-b5ba-280b4de8f192.htm">
+    <HelpTOCNode Id="dce73fb4-baf6-41ba-95d0-792d830fb3ef" Title="Miscellaneous" Url="html/a4f72071-7ca0-47ce-b5ba-280b4de8f192.htm">
       <HelpTOCNode Title="License Agreement" Url="html/86913c13-a075-4d42-88aa-29b19e7befc1.htm" />
       <HelpTOCNode Title="Contact" Url="html/a36f6baf-4118-4924-b8ee-6d2ff311dc44.htm" />
       <HelpTOCNode Title="Links" Url="html/cb4b851e-42a7-4419-b8aa-e2f104001bcb.htm" />
